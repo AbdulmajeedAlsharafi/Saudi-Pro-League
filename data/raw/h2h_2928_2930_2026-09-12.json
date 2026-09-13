@@ -1,0 +1,430 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2928-2930"
+  },
+  "errors": [],
+  "results": 6,
+  "response": [
+    {
+      "fixture": {
+        "id": 110215,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2016-12-22T13:30:00+00:00",
+        "timestamp": 1482413400,
+        "periods": {
+          "first": 1482413400,
+          "second": 1482417000
+        },
+        "venue": {
+          "id": 1372,
+          "name": "Al-Khaleej Club Stadium",
+          "city": "Saihat"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2930,
+          "name": "Al-Faisaly FC",
+          "logo": "https://media.api-sports.io/football/teams/2930.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 336048,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2019-01-15T12:10:00+00:00",
+        "timestamp": 1547554200,
+        "periods": {
+          "first": 1547554200,
+          "second": 1547557800
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "AET",
+          "elapsed": 120,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 504,
+        "name": "King's Cup",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/504.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "16th Finals",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2930,
+          "name": "Al-Faisaly FC",
+          "logo": "https://media.api-sports.io/football/teams/2930.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": 1,
+          "away": 2
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603256,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-05-20T18:00:00+00:00",
+        "timestamp": 1810836000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 32",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2930,
+          "name": "Al-Faisaly FC",
+          "logo": "https://media.api-sports.io/football/teams/2930.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110307,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2016-08-12T16:10:00+00:00",
+        "timestamp": 1471018200,
+        "periods": {
+          "first": 1471018200,
+          "second": 1471021800
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Salman Bin Abdulaziz Sport City Stadium",
+          "city": "Al Majma'ah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 1",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2930,
+          "name": "Al-Faisaly FC",
+          "logo": "https://media.api-sports.io/football/teams/2930.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 336135,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2017-02-25T15:40:00+00:00",
+        "timestamp": 1488037200,
+        "periods": {
+          "first": 1488037200,
+          "second": 1488040800
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Salman Bin Abdulaziz Sport City Stadium (Al Majma'ah)",
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 504,
+        "name": "King's Cup",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/504.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "8th Finals",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 2930,
+          "name": "Al-Faisaly FC",
+          "logo": "https://media.api-sports.io/football/teams/2930.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603101,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-26T17:00:00+00:00",
+        "timestamp": 1795712400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2930,
+          "name": "Al-Faisaly FC",
+          "logo": "https://media.api-sports.io/football/teams/2930.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

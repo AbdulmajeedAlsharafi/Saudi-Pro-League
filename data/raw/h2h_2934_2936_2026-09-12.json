@@ -1,0 +1,1620 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2934-2936"
+  },
+  "errors": [],
+  "results": 23,
+  "response": [
+    {
+      "fixture": {
+        "id": 110255,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2016-11-05T13:35:00+00:00",
+        "timestamp": 1478352900,
+        "periods": {
+          "first": 1478352900,
+          "second": 1478356500
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed Bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 8",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110320,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2018-04-12T15:40:00+00:00",
+        "timestamp": 1523547600,
+        "periods": {
+          "first": 1523547600,
+          "second": 1523551200
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Mohamed bin Fahd Stadium (Ad Dammām (Dammam))",
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Regular Season - 26",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 151772,
+        "referee": "Tomasz Kwiatkowski, Poland",
+        "timezone": "UTC",
+        "date": "2018-11-24T13:30:00+00:00",
+        "timestamp": 1543066200,
+        "periods": {
+          "first": 1543066200,
+          "second": 1543069800
+        },
+        "venue": {
+          "id": 1376,
+          "name": "Prince Saud bin Jalawi Stadium",
+          "city": "Khobar"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 4
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 4
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 234879,
+        "referee": "I. Kružliak",
+        "timezone": "UTC",
+        "date": "2019-12-28T13:35:00+00:00",
+        "timestamp": 1577540100,
+        "periods": {
+          "first": 1577540100,
+          "second": 1577543700
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 13",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 336136,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2017-03-30T18:15:00+00:00",
+        "timestamp": 1490897700,
+        "periods": {
+          "first": 1490897700,
+          "second": 1490901300
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Mohamed bin Fahd Stadium (Ad Dammām (Dammam))",
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "PEN",
+          "elapsed": 120,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 504,
+        "name": "King's Cup",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/504.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Quarter-finals",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 4
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 2
+        },
+        "extratime": {
+          "home": 2,
+          "away": 2
+        },
+        "penalty": {
+          "home": 3,
+          "away": 5
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 657804,
+        "referee": "Mohammed Al Esmaiel",
+        "timezone": "UTC",
+        "date": "2021-02-27T14:15:00+00:00",
+        "timestamp": 1614435300,
+        "periods": {
+          "first": 1614435300,
+          "second": 1614438900
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "Regular Season - 21",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 740050,
+        "referee": "Majed Al Shamrani",
+        "timezone": "UTC",
+        "date": "2021-11-04T15:00:00+00:00",
+        "timestamp": 1636038000,
+        "periods": {
+          "first": 1636038000,
+          "second": 1636041600
+        },
+        "venue": {
+          "id": 1376,
+          "name": "Prince Saud bin Jalawi Stadium",
+          "city": "Khobar"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 931967,
+        "referee": "Shukri Al Hanfosh",
+        "timezone": "UTC",
+        "date": "2022-10-16T17:30:00+00:00",
+        "timestamp": 1665941400,
+        "periods": {
+          "first": 1665941400,
+          "second": 1665945000
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 8",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074383,
+        "referee": "Shukri Al Hanfosh",
+        "timezone": "UTC",
+        "date": "2023-12-16T18:00:00+00:00",
+        "timestamp": 1702749600,
+        "periods": {
+          "first": 1702749600,
+          "second": 1702753200
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 17",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252612,
+        "referee": "Sultan Alharbi",
+        "timezone": "UTC",
+        "date": "2025-02-26T15:15:00+00:00",
+        "timestamp": 1740582900,
+        "periods": {
+          "first": 1740582900,
+          "second": 1740586500
+        },
+        "venue": {
+          "id": null,
+          "name": "EGO Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 22",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436088,
+        "referee": "A. Al Kharboush",
+        "timezone": "UTC",
+        "date": "2026-02-03T17:30:00+00:00",
+        "timestamp": 1770139800,
+        "periods": {
+          "first": 1770139800,
+          "second": 1770143400
+        },
+        "venue": {
+          "id": 22434,
+          "name": "Abdullah Al Dabil Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 20",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603225,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-04-29T18:00:00+00:00",
+        "timestamp": 1809021600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Abdullah Al Dabil Stadium",
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 29",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110169,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2017-03-09T14:50:00+00:00",
+        "timestamp": 1489071000,
+        "periods": {
+          "first": 1489071000,
+          "second": 1489074600
+        },
+        "venue": {
+          "id": 10517,
+          "name": "King Abdullah Sport City Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 21",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110409,
+        "referee": "M. Clattenburg",
+        "timezone": "UTC",
+        "date": "2017-12-10T13:50:00+00:00",
+        "timestamp": 1512913800,
+        "periods": {
+          "first": 1512913800,
+          "second": 1512917400
+        },
+        "venue": {
+          "id": 10517,
+          "name": "King Abdullah Sport City Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Regular Season - 13",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 151863,
+        "referee": "Pavel Kralovec, Czech Republic",
+        "timezone": "UTC",
+        "date": "2019-02-28T12:00:00+00:00",
+        "timestamp": 1551355200,
+        "periods": {
+          "first": 1551355200,
+          "second": 1551358800
+        },
+        "venue": {
+          "id": 10517,
+          "name": "King Abdullah Sport City Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 22",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 312955,
+        "referee": "Shukri Al Hanfosh",
+        "timezone": "UTC",
+        "date": "2020-08-30T16:00:00+00:00",
+        "timestamp": 1598803200,
+        "periods": {
+          "first": 1598803200,
+          "second": 1598806800
+        },
+        "venue": {
+          "id": 10517,
+          "name": "King Abdullah bin Abdulaziz City",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 28",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 635912,
+        "referee": "Mohammed Al Hoaish",
+        "timezone": "UTC",
+        "date": "2020-11-29T11:15:00+00:00",
+        "timestamp": 1606648500,
+        "periods": {
+          "first": 1606648500,
+          "second": 1606652100
+        },
+        "venue": {
+          "id": 10517,
+          "name": "King Abdullah bin Abdulaziz City",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "Regular Season - 6",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 851988,
+        "referee": "S. Karasev",
+        "timezone": "UTC",
+        "date": "2022-05-05T16:20:00+00:00",
+        "timestamp": 1651767600,
+        "periods": {
+          "first": 1651767600,
+          "second": 1651771200
+        },
+        "venue": {
+          "id": 10517,
+          "name": "King Abdullah Sport City Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 26",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 4
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 4
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 976708,
+        "referee": "Khaled Al Teris",
+        "timezone": "UTC",
+        "date": "2023-04-09T19:00:00+00:00",
+        "timestamp": 1681066800,
+        "periods": {
+          "first": 1681066800,
+          "second": 1681070400
+        },
+        "venue": {
+          "id": 1377,
+          "name": "King Abdullah Sport City Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 23",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074536,
+        "referee": "Mohammed Al Hoaish",
+        "timezone": "UTC",
+        "date": "2024-05-27T18:00:00+00:00",
+        "timestamp": 1716832800,
+        "periods": {
+          "first": 1716832800,
+          "second": 1716836400
+        },
+        "venue": {
+          "id": 1377,
+          "name": "Al Taawon Club Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 34",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252459,
+        "referee": "Faisal Alblwi",
+        "timezone": "UTC",
+        "date": "2024-09-29T18:00:00+00:00",
+        "timestamp": 1727632800,
+        "periods": {
+          "first": 1727632800,
+          "second": 1727636400
+        },
+        "venue": {
+          "id": 1377,
+          "name": "Al Taawoun Club Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1435931,
+        "referee": "M. Al Shamrani",
+        "timezone": "UTC",
+        "date": "2025-09-18T15:40:00+00:00",
+        "timestamp": 1758210000,
+        "periods": {
+          "first": 1758210000,
+          "second": 1758213600
+        },
+        "venue": {
+          "id": null,
+          "name": "Al Taawon Arena",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603079,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-31T13:30:00+00:00",
+        "timestamp": 1793453400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Al Taawon Arena",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

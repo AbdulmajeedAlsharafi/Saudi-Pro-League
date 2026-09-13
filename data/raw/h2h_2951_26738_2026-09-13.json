@@ -1,0 +1,290 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2951-26738"
+  },
+  "errors": [],
+  "results": 4,
+  "response": [
+    {
+      "fixture": {
+        "id": 1499094,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-05-01T17:50:00+00:00",
+        "timestamp": 1777657800,
+        "periods": {
+          "first": 1777657800,
+          "second": 1777661400
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Turki bin Abdul Aziz Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 308,
+        "name": "Division 1",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/308.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 32",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 26738,
+          "name": "Al Diriyah",
+          "logo": "https://media.api-sports.io/football/teams/26738.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603027,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-09-13T18:00:00+00:00",
+        "timestamp": 1789322400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Turki bin Abdul Aziz Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 26738,
+          "name": "Al Diriyah",
+          "logo": "https://media.api-sports.io/football/teams/26738.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1438562,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-01-05T12:45:00+00:00",
+        "timestamp": 1767617100,
+        "periods": {
+          "first": 1767617100,
+          "second": 1767620700
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Sultan bin Abdul Aziz Stadium",
+          "city": "Abha"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
+        }
+      },
+      "league": {
+        "id": 308,
+        "name": "Division 1",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/308.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": true
+        },
+        "away": {
+          "id": 26738,
+          "name": "Al Diriyah",
+          "logo": "https://media.api-sports.io/football/teams/26738.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603179,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-04-02T18:00:00+00:00",
+        "timestamp": 1806688800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Sultan bin Abdul Aziz Stadium",
+          "city": "Abha"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 24",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": null
+        },
+        "away": {
+          "id": 26738,
+          "name": "Al Diriyah",
+          "logo": "https://media.api-sports.io/football/teams/26738.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

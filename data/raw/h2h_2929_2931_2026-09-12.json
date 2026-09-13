@@ -1,0 +1,1410 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2929-2931"
+  },
+  "errors": [],
+  "results": 20,
+  "response": [
+    {
+      "fixture": {
+        "id": 110207,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2016-12-31T15:50:00+00:00",
+        "timestamp": 1483199400,
+        "periods": {
+          "first": 1483199400,
+          "second": 1483203000
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110486,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2017-08-17T17:50:00+00:00",
+        "timestamp": 1502992200,
+        "periods": {
+          "first": 1502992200,
+          "second": 1502995800
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 3,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 151745,
+        "referee": "Svein Oddvar Moen, Norway",
+        "timezone": "UTC",
+        "date": "2018-10-25T15:30:00+00:00",
+        "timestamp": 1540481400,
+        "periods": {
+          "first": 1540481400,
+          "second": 1540485000
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 5,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 5,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 313273,
+        "referee": "Majed Al Shamrani",
+        "timezone": "UTC",
+        "date": "2020-02-21T16:30:00+00:00",
+        "timestamp": 1582302600,
+        "periods": {
+          "first": 1582302600,
+          "second": 1582306200
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 19",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 635937,
+        "referee": "Khaled Salwi",
+        "timezone": "UTC",
+        "date": "2020-12-22T15:50:00+00:00",
+        "timestamp": 1608652200,
+        "periods": {
+          "first": 1608652200,
+          "second": 1608655800
+        },
+        "venue": {
+          "id": 1378,
+          "name": "King Abdullah Sports City Reserve Stadium",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "Regular Season - 9",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 739999,
+        "referee": "Turki Al Khudair",
+        "timezone": "UTC",
+        "date": "2021-09-17T17:30:00+00:00",
+        "timestamp": 1631899800,
+        "periods": {
+          "first": 1631899800,
+          "second": 1631903400
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074429,
+        "referee": "Majed Alshamrani",
+        "timezone": "UTC",
+        "date": "2024-03-02T17:00:00+00:00",
+        "timestamp": 1709398800,
+        "periods": {
+          "first": 1709398800,
+          "second": 1709402400
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 22",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252586,
+        "referee": "K. Tohver",
+        "timezone": "UTC",
+        "date": "2025-02-07T17:00:00+00:00",
+        "timestamp": 1738947600,
+        "periods": {
+          "first": 1738947600,
+          "second": 1738951200
+        },
+        "venue": {
+          "id": 19932,
+          "name": "Prince Abdullah al-Faisal Stadium",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 19",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436156,
+        "referee": "A. Al Qahtani",
+        "timezone": "UTC",
+        "date": "2026-05-06T18:00:00+00:00",
+        "timestamp": 1778090400,
+        "periods": {
+          "first": 1778090400,
+          "second": 1778094000
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 28",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603188,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-04-08T18:00:00+00:00",
+        "timestamp": 1807207200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 25",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110298,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2016-08-20T18:05:00+00:00",
+        "timestamp": 1471716300,
+        "periods": {
+          "first": 1471716300,
+          "second": 1471719900
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Abdullah bin Jalawi Stadium",
+          "city": "Al-Hasa"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110395,
+        "referee": "Shukri Al Hanfosh",
+        "timezone": "UTC",
+        "date": "2017-12-23T15:45:00+00:00",
+        "timestamp": 1514043900,
+        "periods": {
+          "first": 1514043900,
+          "second": 1514047500
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Abdullah bin Jalawi Sports City Stadium (Al-Hasa)",
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 3
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 151855,
+        "referee": "Matteo Konger, New Zealand",
+        "timezone": "UTC",
+        "date": "2019-02-20T14:20:00+00:00",
+        "timestamp": 1550672400,
+        "periods": {
+          "first": 1550672400,
+          "second": 1550676000
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Abdullah bin Jalawi Stadium",
+          "city": "Al-Hasa"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 21",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 234807,
+        "referee": "Sardar Josebuiek",
+        "timezone": "UTC",
+        "date": "2019-09-21T15:20:00+00:00",
+        "timestamp": 1569079200,
+        "periods": {
+          "first": 1569079200,
+          "second": 1569082800
+        },
+        "venue": {
+          "id": 1363,
+          "name": "Prince Abdullah bin Jalawi Sports City Stadium",
+          "city": "Al-Hasa"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 657832,
+        "referee": "Turki Al Khudair",
+        "timezone": "UTC",
+        "date": "2021-03-20T14:30:00+00:00",
+        "timestamp": 1616250600,
+        "periods": {
+          "first": 1616250600,
+          "second": 1616254200
+        },
+        "venue": {
+          "id": 1363,
+          "name": "Prince Abdullah bin Jalawi Sports City Stadium",
+          "city": "Al-Hasa"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "Regular Season - 24",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 824989,
+        "referee": "Mohammed Alharbi",
+        "timezone": "UTC",
+        "date": "2022-02-11T14:10:00+00:00",
+        "timestamp": 1644588600,
+        "periods": {
+          "first": 1644588600,
+          "second": 1644592200
+        },
+        "venue": {
+          "id": 1363,
+          "name": "Prince Abdullah bin Jalawi Sports City Stadium",
+          "city": "Al-Hasa"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 20",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074280,
+        "referee": "Fábio Veríssimo",
+        "timezone": "UTC",
+        "date": "2023-09-02T18:00:00+00:00",
+        "timestamp": 1693677600,
+        "periods": {
+          "first": 1693677600,
+          "second": 1693681200
+        },
+        "venue": {
+          "id": 1363,
+          "name": "Prince Abdullah bin Jalawi Sports City Stadium",
+          "city": "Al-Hasa"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 5,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 5,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252428,
+        "referee": "Abdallah Dafar",
+        "timezone": "UTC",
+        "date": "2024-08-27T15:45:00+00:00",
+        "timestamp": 1724773500,
+        "periods": {
+          "first": 1724773500,
+          "second": 1724777100
+        },
+        "venue": {
+          "id": 1363,
+          "name": "Al Fateh Club Stadium",
+          "city": "Al-Hasa"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436005,
+        "referee": "Khaled Al Teris, Saudi Arabia",
+        "timezone": "UTC",
+        "date": "2025-12-26T13:05:00+00:00",
+        "timestamp": 1766754300,
+        "periods": {
+          "first": 1766754300,
+          "second": 1766757900
+        },
+        "venue": {
+          "id": 22271,
+          "name": "Al Fateh club stadium",
+          "city": "Al-Hofuf"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 10
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603037,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-09T14:55:00+00:00",
+        "timestamp": 1791557700,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Al Fateh club stadium",
+          "city": "Al-Hofuf"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 8",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

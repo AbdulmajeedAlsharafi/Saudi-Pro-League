@@ -1,0 +1,290 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2939-10513"
+  },
+  "errors": [],
+  "results": 4,
+  "response": [
+    {
+      "fixture": {
+        "id": 1436133,
+        "referee": "K. Al Turais",
+        "timezone": "UTC",
+        "date": "2026-03-07T19:00:00+00:00",
+        "timestamp": 1772910000,
+        "periods": {
+          "first": 1772910000,
+          "second": 1772913600
+        },
+        "venue": {
+          "id": null,
+          "name": "King Saud University Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 11
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 25",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        },
+        "away": {
+          "id": 10513,
+          "name": "NEOM",
+          "logo": "https://media.api-sports.io/football/teams/10513.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603059,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-20T18:00:00+00:00",
+        "timestamp": 1792519200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "King Saud University Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10513,
+          "name": "NEOM",
+          "logo": "https://media.api-sports.io/football/teams/10513.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1435980,
+        "referee": "Abdullah Al-Shehri, Saudi Arabia",
+        "timezone": "UTC",
+        "date": "2025-11-08T13:50:00+00:00",
+        "timestamp": 1762609800,
+        "periods": {
+          "first": 1762609800,
+          "second": 1762613400
+        },
+        "venue": {
+          "id": null,
+          "name": "King Khalid Sports City",
+          "city": "Tabuk"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 8",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10513,
+          "name": "NEOM",
+          "logo": "https://media.api-sports.io/football/teams/10513.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603214,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-04-18T18:00:00+00:00",
+        "timestamp": 1808071200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "King Khalid Sports City",
+          "city": "Tabuk"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 27",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10513,
+          "name": "NEOM",
+          "logo": "https://media.api-sports.io/football/teams/10513.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

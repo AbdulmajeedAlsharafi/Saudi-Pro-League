@@ -1,0 +1,290 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2936-10513"
+  },
+  "errors": [],
+  "results": 4,
+  "response": [
+    {
+      "fixture": {
+        "id": 1435986,
+        "referee": "Khalid Al-Ahmari, Saudi Arabia",
+        "timezone": "UTC",
+        "date": "2025-11-23T17:30:00+00:00",
+        "timestamp": 1763919000,
+        "periods": {
+          "first": 1763919000,
+          "second": 1763922600
+        },
+        "venue": {
+          "id": 1377,
+          "name": "Al Taawon Arena",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 9",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10513,
+          "name": "NEOM",
+          "logo": "https://media.api-sports.io/football/teams/10513.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603259,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-05-20T18:00:00+00:00",
+        "timestamp": 1810836000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Al Taawon Arena",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 32",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10513,
+          "name": "NEOM",
+          "logo": "https://media.api-sports.io/football/teams/10513.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436145,
+        "referee": "M. Al Ismail",
+        "timezone": "UTC",
+        "date": "2026-03-12T19:00:00+00:00",
+        "timestamp": 1773342000,
+        "periods": {
+          "first": 1773342000,
+          "second": 1773345600
+        },
+        "venue": {
+          "id": null,
+          "name": "King Khalid Sports City",
+          "city": "Tabuk"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 26",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10513,
+          "name": "NEOM",
+          "logo": "https://media.api-sports.io/football/teams/10513.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603106,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-26T17:00:00+00:00",
+        "timestamp": 1795712400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "King Khalid Sports City",
+          "city": "Tabuk"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10513,
+          "name": "NEOM",
+          "logo": "https://media.api-sports.io/football/teams/10513.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

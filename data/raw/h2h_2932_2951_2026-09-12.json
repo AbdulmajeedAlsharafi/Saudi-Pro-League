@@ -1,0 +1,920 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2932-2951"
+  },
+  "errors": [],
+  "results": 13,
+  "response": [
+    {
+      "fixture": {
+        "id": 312859,
+        "referee": "I. Pajač",
+        "timezone": "UTC",
+        "date": "2020-01-31T12:00:00+00:00",
+        "timestamp": 1580472000,
+        "periods": {
+          "first": 1580472000,
+          "second": 1580475600
+        },
+        "venue": {
+          "id": 1362,
+          "name": "Prince Sultan bin Abdul Aziz Stadium",
+          "city": "Abha"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 16",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 635875,
+        "referee": "Majed Al Shamrani",
+        "timezone": "UTC",
+        "date": "2020-10-22T12:40:00+00:00",
+        "timestamp": 1603370400,
+        "periods": {
+          "first": 1603370400,
+          "second": 1603374000
+        },
+        "venue": {
+          "id": 10516,
+          "name": "Prince Sultan bin Abdulaziz Sports City Stadium",
+          "city": "Abha"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 740063,
+        "referee": "Turki Al Khudair",
+        "timezone": "UTC",
+        "date": "2021-11-28T11:30:00+00:00",
+        "timestamp": 1638099000,
+        "periods": {
+          "first": 1638099000,
+          "second": 1638102600
+        },
+        "venue": {
+          "id": 10516,
+          "name": "Prince Sultan bin Abdulaziz Sports City Stadium",
+          "city": "Abha"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 13",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 976757,
+        "referee": "Mohammed Al Esmaiel",
+        "timezone": "UTC",
+        "date": "2023-05-27T18:00:00+00:00",
+        "timestamp": 1685210400,
+        "periods": {
+          "first": 1685210400,
+          "second": 1685214000
+        },
+        "venue": {
+          "id": 10516,
+          "name": "Prince Sultan bin Abdulaziz Sports City Stadium",
+          "city": "Abha"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 29",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074244,
+        "referee": "R. Petrescu",
+        "timezone": "UTC",
+        "date": "2023-08-14T15:00:00+00:00",
+        "timestamp": 1692025200,
+        "periods": {
+          "first": 1692025200,
+          "second": 1692028800
+        },
+        "venue": {
+          "id": 10516,
+          "name": "Prince Sultan bin Abdulaziz Sports City Stadium",
+          "city": "Abha"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 1",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603260,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-05-24T18:00:00+00:00",
+        "timestamp": 1811181600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Sultan bin Abdul Aziz Stadium",
+          "city": "Abha"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 33",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 234779,
+        "referee": "D. Higler",
+        "timezone": "UTC",
+        "date": "2019-08-23T16:00:00+00:00",
+        "timestamp": 1566576000,
+        "periods": {
+          "first": 1566576000,
+          "second": 1566579600
+        },
+        "venue": {
+          "id": 1369,
+          "name": "King Saud University Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 1",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 336007,
+        "referee": "E. Aquino",
+        "timezone": "UTC",
+        "date": "2020-10-27T14:55:00+00:00",
+        "timestamp": 1603810500,
+        "periods": {
+          "first": 1603810500,
+          "second": 1603814100
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 504,
+        "name": "King's Cup",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/504.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "Semi-finals",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 657772,
+        "referee": "I. Tantashev",
+        "timezone": "UTC",
+        "date": "2021-02-04T14:15:00+00:00",
+        "timestamp": 1612448100,
+        "periods": {
+          "first": 1612448100,
+          "second": 1612451700
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "Regular Season - 17",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 852007,
+        "referee": "Artur Soares Dias",
+        "timezone": "UTC",
+        "date": "2022-05-29T18:00:00+00:00",
+        "timestamp": 1653847200,
+        "periods": {
+          "first": 1653847200,
+          "second": 1653850800
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 28",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 932016,
+        "referee": "G. Kabakov",
+        "timezone": "UTC",
+        "date": "2023-01-22T14:00:00+00:00",
+        "timestamp": 1674396000,
+        "periods": {
+          "first": 1674396000,
+          "second": 1674399600
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074395,
+        "referee": "B. Dankert",
+        "timezone": "UTC",
+        "date": "2023-12-21T18:00:00+00:00",
+        "timestamp": 1703181600,
+        "periods": {
+          "first": 1703181600,
+          "second": 1703185200
+        },
+        "venue": {
+          "id": 1361,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 18",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 7,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 7,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603111,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-12-03T17:00:00+00:00",
+        "timestamp": 1796317200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 20744,
+          "name": "Kingdom Arena",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 16",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

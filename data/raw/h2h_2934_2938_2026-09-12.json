@@ -1,0 +1,1620 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2934-2938"
+  },
+  "errors": [],
+  "results": 23,
+  "response": [
+    {
+      "fixture": {
+        "id": 110142,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2017-04-21T17:45:00+00:00",
+        "timestamp": 1492796700,
+        "periods": {
+          "first": 1492796700,
+          "second": 1492800300
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed Bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 24",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 4
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 4
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110418,
+        "referee": "I. Bebek",
+        "timezone": "UTC",
+        "date": "2017-11-30T15:40:00+00:00",
+        "timestamp": 1512056400,
+        "periods": {
+          "first": 1512056400,
+          "second": 1512060000
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed Bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 151812,
+        "referee": "Milorad Mazic, Serbia",
+        "timezone": "UTC",
+        "date": "2018-12-29T13:35:00+00:00",
+        "timestamp": 1546090500,
+        "periods": {
+          "first": 1546090500,
+          "second": 1546094100
+        },
+        "venue": {
+          "id": 1376,
+          "name": "Prince Saud bin Jalawi Stadium",
+          "city": "Khobar"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 234855,
+        "referee": "I. Bebek",
+        "timezone": "UTC",
+        "date": "2019-11-24T13:30:00+00:00",
+        "timestamp": 1574602200,
+        "periods": {
+          "first": 1574602200,
+          "second": 1574605800
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 657765,
+        "referee": "Majed Al Shamrani",
+        "timezone": "UTC",
+        "date": "2021-01-30T14:00:00+00:00",
+        "timestamp": 1612015200,
+        "periods": {
+          "first": 1612015200,
+          "second": 1612018800
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "Regular Season - 16",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 852015,
+        "referee": "C. Ramos",
+        "timezone": "UTC",
+        "date": "2022-06-23T18:00:00+00:00",
+        "timestamp": 1656007200,
+        "periods": {
+          "first": 1656007200,
+          "second": 1656010800
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 29",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 976660,
+        "referee": "Artur Soares Dias",
+        "timezone": "UTC",
+        "date": "2023-02-16T16:30:00+00:00",
+        "timestamp": 1676565000,
+        "periods": {
+          "first": 1676565000,
+          "second": 1676568600
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 17",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074358,
+        "referee": "T. Bognár",
+        "timezone": "UTC",
+        "date": "2023-11-24T15:00:00+00:00",
+        "timestamp": 1700838000,
+        "periods": {
+          "first": 1700838000,
+          "second": 1700841600
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Al Ettifaq Club Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252519,
+        "referee": "Sami Al Jires",
+        "timezone": "UTC",
+        "date": "2024-11-30T14:25:00+00:00",
+        "timestamp": 1732976700,
+        "periods": {
+          "first": 1732976700,
+          "second": 1732980300
+        },
+        "venue": {
+          "id": null,
+          "name": "EGO Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 4
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 4
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436202,
+        "referee": "A. Al Kharboush",
+        "timezone": "UTC",
+        "date": "2026-05-14T18:00:00+00:00",
+        "timestamp": 1778781600,
+        "periods": {
+          "first": 1778781600,
+          "second": 1778785200
+        },
+        "venue": {
+          "id": 22434,
+          "name": "Abdullah Al Dabil Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 33",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603055,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-20T18:00:00+00:00",
+        "timestamp": 1792519200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Abdullah Al Dabil Stadium",
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110236,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2016-12-02T15:40:00+00:00",
+        "timestamp": 1480693200,
+        "periods": {
+          "first": 1480693200,
+          "second": 1480696800
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110326,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2018-04-06T17:40:00+00:00",
+        "timestamp": 1523036400,
+        "periods": {
+          "first": 1523036400,
+          "second": 1523040000
+        },
+        "venue": {
+          "id": null,
+          "name": "King Abdullah Sports City (Jeddah)",
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Regular Season - 25",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 151912,
+        "referee": "Szymon Marciniak, Poland",
+        "timezone": "UTC",
+        "date": "2019-04-18T17:45:00+00:00",
+        "timestamp": 1555609500,
+        "periods": {
+          "first": 1555609500,
+          "second": 1555613100
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 28",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 312933,
+        "referee": "D. Stefanski",
+        "timezone": "UTC",
+        "date": "2020-08-14T17:50:00+00:00",
+        "timestamp": 1597427400,
+        "periods": {
+          "first": 1597427400,
+          "second": 1597431000
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 25",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 336097,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2018-01-19T17:10:00+00:00",
+        "timestamp": 1516381800,
+        "periods": {
+          "first": 1516381800,
+          "second": 1516385400
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 504,
+        "name": "King's Cup",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/504.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "8th Finals",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 635874,
+        "referee": "Turki Al Khudair",
+        "timezone": "UTC",
+        "date": "2020-10-18T17:00:00+00:00",
+        "timestamp": 1603040400,
+        "periods": {
+          "first": 1603040400,
+          "second": 1603044000
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "Regular Season - 1",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 740072,
+        "referee": "I. Kovacs",
+        "timezone": "UTC",
+        "date": "2021-12-26T15:45:00+00:00",
+        "timestamp": 1640533500,
+        "periods": {
+          "first": 1640533500,
+          "second": 1640537100
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 931921,
+        "referee": "D. Orsato",
+        "timezone": "UTC",
+        "date": "2022-09-03T18:00:00+00:00",
+        "timestamp": 1662228000,
+        "periods": {
+          "first": 1662228000,
+          "second": 1662231600
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074510,
+        "referee": "Sultan Alharbi",
+        "timezone": "UTC",
+        "date": "2024-05-10T18:00:00+00:00",
+        "timestamp": 1715364000,
+        "periods": {
+          "first": 1715364000,
+          "second": 1715367600
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 31",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 5
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 4
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 5
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252675,
+        "referee": "G. Kabakov",
+        "timezone": "UTC",
+        "date": "2025-04-21T18:00:00+00:00",
+        "timestamp": 1745258400,
+        "periods": {
+          "first": 1745258400,
+          "second": 1745262000
+        },
+        "venue": {
+          "id": 1364,
+          "name": "Prince Abdullah Al Faisal Sports City Stadium",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 29",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 3,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436050,
+        "referee": "Abdullah Al-Owaidan, Saudi Arabia",
+        "timezone": "UTC",
+        "date": "2026-01-16T17:30:00+00:00",
+        "timestamp": 1768584600,
+        "periods": {
+          "first": 1768584600,
+          "second": 1768588200
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 9
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 16",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603209,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-04-18T18:00:00+00:00",
+        "timestamp": 1808071200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 27",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2938,
+          "name": "Al-Ittihad FC",
+          "logo": "https://media.api-sports.io/football/teams/2938.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

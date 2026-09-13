@@ -1,0 +1,710 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2945-2951"
+  },
+  "errors": [],
+  "results": 10,
+  "response": [
+    {
+      "fixture": {
+        "id": 234857,
+        "referee": "S. Moen",
+        "timezone": "UTC",
+        "date": "2019-12-12T11:20:00+00:00",
+        "timestamp": 1576149600,
+        "periods": {
+          "first": 1576149600,
+          "second": 1576153200
+        },
+        "venue": {
+          "id": null,
+          "name": "Ar-Rass Stadium",
+          "city": "Rass"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 740001,
+        "referee": "Sami Al Jires",
+        "timezone": "UTC",
+        "date": "2021-09-18T15:45:00+00:00",
+        "timestamp": 1631979900,
+        "periods": {
+          "first": 1631979900,
+          "second": 1631983500
+        },
+        "venue": {
+          "id": null,
+          "name": "Ar-Rass Stadium",
+          "city": "Rass"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074537,
+        "referee": "Faisal Alblwi",
+        "timezone": "UTC",
+        "date": "2024-05-27T18:00:00+00:00",
+        "timestamp": 1716832800,
+        "periods": {
+          "first": 1716832800,
+          "second": 1716836400
+        },
+        "venue": {
+          "id": null,
+          "name": "Ar-Rass Stadium",
+          "city": "Rass"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 34",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1253377,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2024-10-23T15:05:00+00:00",
+        "timestamp": 1729695900,
+        "periods": {
+          "first": 1729695900,
+          "second": 1729699500
+        },
+        "venue": {
+          "id": null,
+          "name": "Ar-Rass Stadium",
+          "city": "Rass"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 308,
+        "name": "Division 1",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/308.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 3,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603129,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-12-14T17:00:00+00:00",
+        "timestamp": 1797267600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Hazem Club Stadium",
+          "city": "Ar Rass"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 18",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 312939,
+        "referee": "G. Mažeika",
+        "timezone": "UTC",
+        "date": "2020-08-19T16:10:00+00:00",
+        "timestamp": 1597853400,
+        "periods": {
+          "first": 1597853400,
+          "second": 1597857000
+        },
+        "venue": {
+          "id": 10516,
+          "name": "Prince Sultan bin Abdulaziz Sports City Stadium",
+          "city": "Abha"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 26",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 824988,
+        "referee": "Mohammed Al Beredi",
+        "timezone": "UTC",
+        "date": "2022-02-11T12:05:00+00:00",
+        "timestamp": 1644581100,
+        "periods": {
+          "first": 1644581100,
+          "second": 1644584700
+        },
+        "venue": {
+          "id": 10516,
+          "name": "Prince Sultan bin Abdulaziz Sports City Stadium",
+          "city": "Abha"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 20",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074386,
+        "referee": "Mohammed Al Beredi",
+        "timezone": "UTC",
+        "date": "2023-12-14T15:00:00+00:00",
+        "timestamp": 1702566000,
+        "periods": {
+          "first": 1702566000,
+          "second": 1702569600
+        },
+        "venue": {
+          "id": 10516,
+          "name": "Prince Sultan bin Abdulaziz Sports City Stadium",
+          "city": "Abha"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 17",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1330338,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2025-03-04T19:00:00+00:00",
+        "timestamp": 1741114800,
+        "periods": {
+          "first": 1741114800,
+          "second": 1741118400
+        },
+        "venue": {
+          "id": 10516,
+          "name": "Prince Sultan bin Abdulaziz Sports City Stadium",
+          "city": "Abha"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 12
+        }
+      },
+      "league": {
+        "id": 308,
+        "name": "Division 1",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/308.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 24",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1602972,
+        "referee": "Shukri Alhunfush, Saudi Arabia",
+        "timezone": "UTC",
+        "date": "2026-08-13T16:15:00+00:00",
+        "timestamp": 1786637700,
+        "periods": {
+          "first": 1786637700,
+          "second": 1786641300
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Sultan bin Abdul Aziz Stadium",
+          "city": "Abha"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 1",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

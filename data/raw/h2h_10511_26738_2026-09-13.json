@@ -1,0 +1,150 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "10511-26738"
+  },
+  "errors": [],
+  "results": 2,
+  "response": [
+    {
+      "fixture": {
+        "id": 1603213,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-04-18T18:00:00+00:00",
+        "timestamp": 1808071200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 27",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10511,
+          "name": "Al Riyadh",
+          "logo": "https://media.api-sports.io/football/teams/10511.png",
+          "winner": null
+        },
+        "away": {
+          "id": 26738,
+          "name": "Al Diriyah",
+          "logo": "https://media.api-sports.io/football/teams/26738.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603054,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-20T15:00:00+00:00",
+        "timestamp": 1792508400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Turki bin Abdul Aziz Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 26738,
+          "name": "Al Diriyah",
+          "logo": "https://media.api-sports.io/football/teams/26738.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10511,
+          "name": "Al Riyadh",
+          "logo": "https://media.api-sports.io/football/teams/10511.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

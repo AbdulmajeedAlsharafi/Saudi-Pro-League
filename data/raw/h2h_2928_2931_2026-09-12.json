@@ -1,0 +1,850 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2928-2931"
+  },
+  "errors": [],
+  "results": 12,
+  "response": [
+    {
+      "fixture": {
+        "id": 110136,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2017-04-29T17:50:00+00:00",
+        "timestamp": 1493488200,
+        "periods": {
+          "first": 1493488200,
+          "second": 1493491800
+        },
+        "venue": {
+          "id": 1372,
+          "name": "Al-Khaleej Club Stadium",
+          "city": "Saihat"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 25",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 931960,
+        "referee": "Ahmad Al Rumaikhani",
+        "timezone": "UTC",
+        "date": "2022-10-11T17:30:00+00:00",
+        "timestamp": 1665509400,
+        "periods": {
+          "first": 1665509400,
+          "second": 1665513000
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074291,
+        "referee": "Mohammed Al Beredi",
+        "timezone": "UTC",
+        "date": "2023-09-15T18:00:00+00:00",
+        "timestamp": 1694800800,
+        "periods": {
+          "first": 1694800800,
+          "second": 1694804400
+        },
+        "venue": {
+          "id": 1376,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 6",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252656,
+        "referee": "Abdullah Al-Harbi",
+        "timezone": "UTC",
+        "date": "2025-04-12T15:35:00+00:00",
+        "timestamp": 1744472100,
+        "periods": {
+          "first": 1744472100,
+          "second": 1744475700
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 5
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 27",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 5
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 5
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436019,
+        "referee": "Abdullah Al-Kharbosh, Saudi Arabia",
+        "timezone": "UTC",
+        "date": "2025-12-29T14:35:00+00:00",
+        "timestamp": 1767018900,
+        "periods": {
+          "first": 1767018900,
+          "second": 1767022500
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603210,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-04-18T18:00:00+00:00",
+        "timestamp": 1808071200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 27",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110227,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2016-12-10T10:55:00+00:00",
+        "timestamp": 1481367300,
+        "periods": {
+          "first": 1481367300,
+          "second": 1481370900
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Abdullah bin Jalawi Stadium",
+          "city": "Al-Hasa"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 4
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 4
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 976702,
+        "referee": "Abdulsamad Bakri",
+        "timezone": "UTC",
+        "date": "2023-04-06T19:00:00+00:00",
+        "timestamp": 1680807600,
+        "periods": {
+          "first": 1680807600,
+          "second": 1680811200
+        },
+        "venue": {
+          "id": 1363,
+          "name": "Prince Abdullah bin Jalawi Sports City Stadium",
+          "city": "Al-Hasa"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 22",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074437,
+        "referee": "Mohammed Alharbi",
+        "timezone": "UTC",
+        "date": "2024-03-09T14:00:00+00:00",
+        "timestamp": 1709992800,
+        "periods": {
+          "first": 1709992800,
+          "second": 1709996400
+        },
+        "venue": {
+          "id": 1363,
+          "name": "Al Fateh Club Stadium",
+          "city": "Al-Hasa"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 23",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252501,
+        "referee": "Faisal Alblwi",
+        "timezone": "UTC",
+        "date": "2024-11-09T14:30:00+00:00",
+        "timestamp": 1731162600,
+        "periods": {
+          "first": 1731162600,
+          "second": 1731166200
+        },
+        "venue": {
+          "id": null,
+          "name": "Al Fateh Club Stadium",
+          "city": "Al-Hofuf"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 10
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436173,
+        "referee": "A. Al Owaidan",
+        "timezone": "UTC",
+        "date": "2026-04-24T15:45:00+00:00",
+        "timestamp": 1777045500,
+        "periods": {
+          "first": 1777045500,
+          "second": 1777049100
+        },
+        "venue": {
+          "id": 22271,
+          "name": "Al Fateh club stadium",
+          "city": "Al-Hofuf"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 9
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 29",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603056,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-18T18:00:00+00:00",
+        "timestamp": 1792346400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Al Fateh club stadium",
+          "city": "Al-Hofuf"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2931,
+          "name": "Al-Fateh",
+          "logo": "https://media.api-sports.io/football/teams/2931.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2928,
+          "name": "Al Khaleej Saihat",
+          "logo": "https://media.api-sports.io/football/teams/2928.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

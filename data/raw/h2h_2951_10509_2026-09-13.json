@@ -1,0 +1,290 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2951-10509"
+  },
+  "errors": [],
+  "results": 4,
+  "response": [
+    {
+      "fixture": {
+        "id": 354388,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2017-12-08T11:15:00+00:00",
+        "timestamp": 1512731700,
+        "periods": {
+          "first": 1512731700,
+          "second": 1512735300
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 309,
+        "name": "Division 2",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/309.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Group A - Round 8",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603211,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-04-18T18:00:00+00:00",
+        "timestamp": 1808071200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Hazem Club Stadium",
+          "city": "Ar Rass"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 27",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 354292,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2018-02-23T16:25:00+00:00",
+        "timestamp": 1519403100,
+        "periods": {
+          "first": 1519403100,
+          "second": 1519406700
+        },
+        "venue": {
+          "id": null,
+          "name": null,
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 309,
+        "name": "Division 2",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/309.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Group A - Round 17",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603053,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-19T15:20:00+00:00",
+        "timestamp": 1792423200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Sultan bin Abdul Aziz Stadium",
+          "city": "Abha"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2951,
+          "name": "Abha",
+          "logo": "https://media.api-sports.io/football/teams/2951.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

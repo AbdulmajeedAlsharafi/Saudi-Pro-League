@@ -1,0 +1,500 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2940-10509"
+  },
+  "errors": [],
+  "results": 7,
+  "response": [
+    {
+      "fixture": {
+        "id": 1252655,
+        "referee": "Abdullah Al Owaydan",
+        "timezone": "UTC",
+        "date": "2025-04-10T15:50:00+00:00",
+        "timestamp": 1744300200,
+        "periods": {
+          "first": 1744300200,
+          "second": 1744303800
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Shabab Club Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 27",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": true
+        },
+        "away": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1435941,
+        "referee": "M. Al Hoaish",
+        "timezone": "UTC",
+        "date": "2025-09-25T15:25:00+00:00",
+        "timestamp": 1758813900,
+        "periods": {
+          "first": 1758813900,
+          "second": 1758817500
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Al-Shabab Club Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 12
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        },
+        "away": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603176,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-03-18T18:00:00+00:00",
+        "timestamp": 1805392800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Shabab Club Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 23",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1208000,
+        "referee": "Mohammed Abu Shaqarah",
+        "timezone": "UTC",
+        "date": "2024-09-24T18:00:00+00:00",
+        "timestamp": 1727200800,
+        "periods": {
+          "first": 1727200800,
+          "second": 1727204400
+        },
+        "venue": {
+          "id": null,
+          "name": "Ar-Rass Stadium",
+          "city": "Rass"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 504,
+        "name": "King's Cup",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/504.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Round of 32",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252505,
+        "referee": "Abdullah Al-Kharbosh",
+        "timezone": "UTC",
+        "date": "2024-11-07T15:00:00+00:00",
+        "timestamp": 1730991600,
+        "periods": {
+          "first": 1730991600,
+          "second": 1730995200
+        },
+        "venue": {
+          "id": 1377,
+          "name": "King Abdullah Sport City Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436094,
+        "referee": "M. Al Ismail",
+        "timezone": "UTC",
+        "date": "2026-02-07T14:00:00+00:00",
+        "timestamp": 1770472800,
+        "periods": {
+          "first": 1770472800,
+          "second": 1770476400
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Hazem Club Stadium",
+          "city": "Ar Rass"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 21",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603023,
+        "referee": "Ali Al-Qahtani, Saudi Arabia",
+        "timezone": "UTC",
+        "date": "2026-09-09T15:55:00+00:00",
+        "timestamp": 1788969300,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Hazem Club Stadium",
+          "city": "Ar Rass"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 6",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

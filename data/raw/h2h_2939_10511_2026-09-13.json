@@ -1,0 +1,570 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2939-10511"
+  },
+  "errors": [],
+  "results": 8,
+  "response": [
+    {
+      "fixture": {
+        "id": 1074375,
+        "referee": "Majed Alshamrani",
+        "timezone": "UTC",
+        "date": "2023-12-08T18:00:00+00:00",
+        "timestamp": 1702058400,
+        "periods": {
+          "first": 1702058400,
+          "second": 1702062000
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Al Awal Park at King Saud University",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 16",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        },
+        "away": {
+          "id": 10511,
+          "name": "Al Riyadh",
+          "logo": "https://media.api-sports.io/football/teams/10511.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252661,
+        "referee": "E. Lambrechts",
+        "timezone": "UTC",
+        "date": "2025-04-12T18:00:00+00:00",
+        "timestamp": 1744480800,
+        "periods": {
+          "first": 1744480800,
+          "second": 1744484400
+        },
+        "venue": {
+          "id": 19933,
+          "name": "Al-Awwal Park",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 15
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 27",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        },
+        "away": {
+          "id": 10511,
+          "name": "Al Riyadh",
+          "logo": "https://media.api-sports.io/football/teams/10511.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1435939,
+        "referee": "U. Schnyder",
+        "timezone": "UTC",
+        "date": "2025-09-20T18:00:00+00:00",
+        "timestamp": 1758391200,
+        "periods": {
+          "first": 1758391200,
+          "second": 1758394800
+        },
+        "venue": {
+          "id": null,
+          "name": "King Saud University Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        },
+        "away": {
+          "id": 10511,
+          "name": "Al Riyadh",
+          "logo": "https://media.api-sports.io/football/teams/10511.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 5,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 3,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 5,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603139,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-02-11T19:00:00+00:00",
+        "timestamp": 1802372400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "King Saud University Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 19",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10511,
+          "name": "Al Riyadh",
+          "logo": "https://media.api-sports.io/football/teams/10511.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074534,
+        "referee": "Khalid Al Turais",
+        "timezone": "UTC",
+        "date": "2024-05-23T18:00:00+00:00",
+        "timestamp": 1716487200,
+        "periods": {
+          "first": 1716487200,
+          "second": 1716490800
+        },
+        "venue": {
+          "id": 7224,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 33",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10511,
+          "name": "Al Riyadh",
+          "logo": "https://media.api-sports.io/football/teams/10511.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252508,
+        "referee": "N. Dabanović",
+        "timezone": "UTC",
+        "date": "2024-11-08T17:00:00+00:00",
+        "timestamp": 1731085200,
+        "periods": {
+          "first": 1731085200,
+          "second": 1731088800
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10511,
+          "name": "Al Riyadh",
+          "logo": "https://media.api-sports.io/football/teams/10511.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436087,
+        "referee": "K. Al Turais",
+        "timezone": "UTC",
+        "date": "2026-02-02T15:15:00+00:00",
+        "timestamp": 1770045300,
+        "periods": {
+          "first": 1770045300,
+          "second": 1770048900
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 9
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 20",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10511,
+          "name": "Al Riyadh",
+          "logo": "https://media.api-sports.io/football/teams/10511.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1602982,
+        "referee": "Abdullah Al-Owaidan, Saudi Arabia",
+        "timezone": "UTC",
+        "date": "2026-08-21T16:00:00+00:00",
+        "timestamp": 1787328000,
+        "periods": {
+          "first": 1787328000,
+          "second": 1787331600
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 2
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 2",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10511,
+          "name": "Al Riyadh",
+          "logo": "https://media.api-sports.io/football/teams/10511.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 4
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 4
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

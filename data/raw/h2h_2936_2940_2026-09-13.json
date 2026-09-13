@@ -1,0 +1,1620 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2936-2940"
+  },
+  "errors": [],
+  "results": 23,
+  "response": [
+    {
+      "fixture": {
+        "id": 110196,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2017-02-01T14:25:00+00:00",
+        "timestamp": 1485959100,
+        "periods": {
+          "first": 1485959100,
+          "second": 1485962700
+        },
+        "venue": {
+          "id": 10517,
+          "name": "King Abdullah Sport City Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 17",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110324,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2018-04-06T17:40:00+00:00",
+        "timestamp": 1523036400,
+        "periods": {
+          "first": 1523036400,
+          "second": 1523040000
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Abdullah bin Abdul Aziz Stadium (King Abdullah Sport City Stadium) (Buraydah (Buraidah))",
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Regular Season - 25",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 151729,
+        "referee": "D. Skomina",
+        "timezone": "UTC",
+        "date": "2018-10-05T15:25:00+00:00",
+        "timestamp": 1538753100,
+        "periods": {
+          "first": 1538753100,
+          "second": 1538756700
+        },
+        "venue": {
+          "id": 10517,
+          "name": "King Abdullah Sport City Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 234847,
+        "referee": "Hugo Miguel",
+        "timezone": "UTC",
+        "date": "2019-11-02T14:00:00+00:00",
+        "timestamp": 1572703200,
+        "periods": {
+          "first": 1572703200,
+          "second": 1572706800
+        },
+        "venue": {
+          "id": 10517,
+          "name": "King Abdullah Sport City Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 9",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 336069,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2019-01-23T15:20:00+00:00",
+        "timestamp": 1548256800,
+        "periods": {
+          "first": 1548256800,
+          "second": 1548260400
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Abdullah bin Abdul Aziz Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 504,
+        "name": "King's Cup",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/504.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "8th Finals",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 3,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 635938,
+        "referee": "Faisal Alblwi",
+        "timezone": "UTC",
+        "date": "2020-12-21T13:55:00+00:00",
+        "timestamp": 1608558900,
+        "periods": {
+          "first": 1608558900,
+          "second": 1608562500
+        },
+        "venue": {
+          "id": 10517,
+          "name": "King Abdullah bin Abdulaziz City",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "Regular Season - 9",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 852014,
+        "referee": "Majed Alshamrani",
+        "timezone": "UTC",
+        "date": "2022-06-23T18:00:00+00:00",
+        "timestamp": 1656007200,
+        "periods": {
+          "first": 1656007200,
+          "second": 1656010800
+        },
+        "venue": {
+          "id": 10517,
+          "name": "King Abdullah Sport City Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 29",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 932010,
+        "referee": "Shukri Al Hanfosh",
+        "timezone": "UTC",
+        "date": "2023-01-20T16:30:00+00:00",
+        "timestamp": 1674232200,
+        "periods": {
+          "first": 1674232200,
+          "second": 1674235800
+        },
+        "venue": {
+          "id": 1377,
+          "name": "King Abdullah Sport City Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074524,
+        "referee": "Sami Al Jires",
+        "timezone": "UTC",
+        "date": "2024-05-18T16:20:00+00:00",
+        "timestamp": 1716049200,
+        "periods": {
+          "first": 1716049200,
+          "second": 1716052800
+        },
+        "venue": {
+          "id": 1377,
+          "name": "Al Taawon Club Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 32",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252605,
+        "referee": "Faisal Alblwi",
+        "timezone": "UTC",
+        "date": "2025-02-22T14:05:00+00:00",
+        "timestamp": 1740233100,
+        "periods": {
+          "first": 1740233100,
+          "second": 1740236700
+        },
+        "venue": {
+          "id": 1377,
+          "name": "Al Taawoun Club Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 9
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 21",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436036,
+        "referee": "Majed Mohammed Al-Shamrani, Saudi Arabia",
+        "timezone": "UTC",
+        "date": "2026-01-09T15:05:00+00:00",
+        "timestamp": 1767971100,
+        "periods": {
+          "first": 1767971100,
+          "second": 1767974700
+        },
+        "venue": {
+          "id": 1377,
+          "name": "Al Taawon Arena",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603195,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-04-08T18:00:00+00:00",
+        "timestamp": 1807207200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Al Taawon Arena",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 25",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110284,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2016-09-23T15:30:00+00:00",
+        "timestamp": 1474644600,
+        "periods": {
+          "first": 1474644600,
+          "second": 1474648200
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110419,
+        "referee": "T. Bognár",
+        "timezone": "UTC",
+        "date": "2017-11-30T13:45:00+00:00",
+        "timestamp": 1512049500,
+        "periods": {
+          "first": 1512049500,
+          "second": 1512053100
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 151924,
+        "referee": "Pavel Kralovec, Czech Republic",
+        "timezone": "UTC",
+        "date": "2019-05-11T19:30:00+00:00",
+        "timestamp": 1557603000,
+        "periods": {
+          "first": 1557603000,
+          "second": 1557606600
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 29",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 312924,
+        "referee": "T. Bognár",
+        "timezone": "UTC",
+        "date": "2020-08-10T16:05:00+00:00",
+        "timestamp": 1597075500,
+        "periods": {
+          "first": 1597075500,
+          "second": 1597079100
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Shabab Club Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 24",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 657828,
+        "referee": "Majed Al Shamrani",
+        "timezone": "UTC",
+        "date": "2021-03-20T14:40:00+00:00",
+        "timestamp": 1616251200,
+        "periods": {
+          "first": 1616251200,
+          "second": 1616254800
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Shabab Club Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "Regular Season - 24",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 740071,
+        "referee": "O. Hațegan",
+        "timezone": "UTC",
+        "date": "2021-12-27T13:50:00+00:00",
+        "timestamp": 1640613000,
+        "periods": {
+          "first": 1640613000,
+          "second": 1640616600
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 976761,
+        "referee": "Sultan Alharbi",
+        "timezone": "UTC",
+        "date": "2023-05-27T18:00:00+00:00",
+        "timestamp": 1685210400,
+        "periods": {
+          "first": 1685210400,
+          "second": 1685214000
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 29",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074372,
+        "referee": "A. Sidiropoulos",
+        "timezone": "UTC",
+        "date": "2023-12-02T18:00:00+00:00",
+        "timestamp": 1701540000,
+        "periods": {
+          "first": 1701540000,
+          "second": 1701543600
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Shabab Club Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252454,
+        "referee": "Mohammed Al-Ismail",
+        "timezone": "UTC",
+        "date": "2024-09-21T15:30:00+00:00",
+        "timestamp": 1726932600,
+        "periods": {
+          "first": 1726932600,
+          "second": 1726936200
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Shabab Club Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436186,
+        "referee": "A. Y. Zarban",
+        "timezone": "UTC",
+        "date": "2026-05-03T16:00:00+00:00",
+        "timestamp": 1777824000,
+        "periods": {
+          "first": 1777824000,
+          "second": 1777827600
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Al-Shabab Club Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 3
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 31",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 5
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 5
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603043,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-11T18:00:00+00:00",
+        "timestamp": 1791741600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Shabab Club Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 8",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2936,
+          "name": "Al Taawon",
+          "logo": "https://media.api-sports.io/football/teams/2936.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

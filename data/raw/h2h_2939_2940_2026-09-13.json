@@ -1,0 +1,1690 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2939-2940"
+  },
+  "errors": [],
+  "results": 24,
+  "response": [
+    {
+      "fixture": {
+        "id": 110140,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2017-04-29T17:50:00+00:00",
+        "timestamp": 1493488200,
+        "periods": {
+          "first": 1493488200,
+          "second": 1493491800
+        },
+        "venue": {
+          "id": null,
+          "name": "King Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 25",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110337,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2018-03-07T16:30:00+00:00",
+        "timestamp": 1520440200,
+        "periods": {
+          "first": 1520440200,
+          "second": 1520443800
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Faisal bin Fahd Stadium (Ar-Riyāḍ (Riyadh))",
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Regular Season - 18",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 151771,
+        "referee": "Pavel Kralovec, Czech Republic",
+        "timezone": "UTC",
+        "date": "2018-11-23T15:40:00+00:00",
+        "timestamp": 1542987600,
+        "periods": {
+          "first": 1542987600,
+          "second": 1542991200
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 234795,
+        "referee": "D. Stefanski",
+        "timezone": "UTC",
+        "date": "2019-09-13T17:35:00+00:00",
+        "timestamp": 1568396100,
+        "periods": {
+          "first": 1568396100,
+          "second": 1568399700
+        },
+        "venue": {
+          "id": 1361,
+          "name": "King Fahd International Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 657785,
+        "referee": "Turki Al Khudair",
+        "timezone": "UTC",
+        "date": "2021-02-13T16:20:00+00:00",
+        "timestamp": 1613233200,
+        "periods": {
+          "first": 1613233200,
+          "second": 1613236800
+        },
+        "venue": {
+          "id": 1369,
+          "name": "King Saud University Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "Regular Season - 18",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 4
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 4
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 851992,
+        "referee": "Mohammed Al Hoaish",
+        "timezone": "UTC",
+        "date": "2022-05-06T17:50:00+00:00",
+        "timestamp": 1651859400,
+        "periods": {
+          "first": 1651859400,
+          "second": 1651863000
+        },
+        "venue": {
+          "id": 12277,
+          "name": "Mrsool Park",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 26",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 3,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 976754,
+        "referee": "D. Orsato",
+        "timezone": "UTC",
+        "date": "2023-05-23T18:30:00+00:00",
+        "timestamp": 1684866600,
+        "periods": {
+          "first": 1684866600,
+          "second": 1684870200
+        },
+        "venue": {
+          "id": 12277,
+          "name": "Al Awal Park at King Saud University",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 28",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1028723,
+        "referee": "L. Bekouassa",
+        "timezone": "UTC",
+        "date": "2023-07-28T19:00:00+00:00",
+        "timestamp": 1690570800,
+        "periods": {
+          "first": 1690570800,
+          "second": 1690574400
+        },
+        "venue": {
+          "id": 2904,
+          "name": "King Fahd Sport City Stadium",
+          "city": "Ta'if"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 768,
+        "name": "Arab Club Champions Cup",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/768.png",
+        "flag": null,
+        "season": 2023,
+        "round": "Group Stage - 1",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074274,
+        "referee": "I. Elfath",
+        "timezone": "UTC",
+        "date": "2023-08-29T18:00:00+00:00",
+        "timestamp": 1693332000,
+        "periods": {
+          "first": 1693332000,
+          "second": 1693335600
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Al Awal Park at King Saud University",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 3,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252631,
+        "referee": "F. Tello",
+        "timezone": "UTC",
+        "date": "2025-03-07T19:00:00+00:00",
+        "timestamp": 1741374000,
+        "periods": {
+          "first": 1741374000,
+          "second": 1741377600
+        },
+        "venue": {
+          "id": 19933,
+          "name": "Al-Awwal Park",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 24",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436055,
+        "referee": "Mohammed Khled Hoish, Saudi Arabia",
+        "timezone": "UTC",
+        "date": "2026-01-17T17:30:00+00:00",
+        "timestamp": 1768671000,
+        "periods": {
+          "first": 1768671000,
+          "second": 1768674600
+        },
+        "venue": {
+          "id": null,
+          "name": "King Saud University Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 16",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603104,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-11-26T17:00:00+00:00",
+        "timestamp": 1795712400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "King Saud University Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110228,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2016-12-09T15:55:00+00:00",
+        "timestamp": 1481298900,
+        "periods": {
+          "first": 1481298900,
+          "second": 1481302500
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110464,
+        "referee": "Fahad Al Mirdasi",
+        "timezone": "UTC",
+        "date": "2017-09-29T17:15:00+00:00",
+        "timestamp": 1506705300,
+        "periods": {
+          "first": 1506705300,
+          "second": 1506708900
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Regular Season - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 151865,
+        "referee": "Tasos Sidiropoulos, Greece",
+        "timezone": "UTC",
+        "date": "2019-02-28T16:30:00+00:00",
+        "timestamp": 1551371400,
+        "periods": {
+          "first": 1551371400,
+          "second": 1551375000
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 22",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 312877,
+        "referee": "O. Hațegan",
+        "timezone": "UTC",
+        "date": "2020-02-14T14:25:00+00:00",
+        "timestamp": 1581690300,
+        "periods": {
+          "first": 1581690300,
+          "second": 1581693900
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 18",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 4
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 4
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 635890,
+        "referee": "Shukri Al Hanfosh",
+        "timezone": "UTC",
+        "date": "2020-11-01T15:50:00+00:00",
+        "timestamp": 1604245800,
+        "periods": {
+          "first": 1604245800,
+          "second": 1604249400
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 740052,
+        "referee": "M. Díaz de Vivar",
+        "timezone": "UTC",
+        "date": "2021-11-05T13:50:00+00:00",
+        "timestamp": 1636120200,
+        "periods": {
+          "first": 1636120200,
+          "second": 1636123800
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 932008,
+        "referee": "C. Turpin",
+        "timezone": "UTC",
+        "date": "2023-01-14T16:30:00+00:00",
+        "timestamp": 1673713800,
+        "periods": {
+          "first": 1673713800,
+          "second": 1673717400
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 13",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074427,
+        "referee": "T. Bognár",
+        "timezone": "UTC",
+        "date": "2024-02-25T17:00:00+00:00",
+        "timestamp": 1708880400,
+        "periods": {
+          "first": 1708880400,
+          "second": 1708884000
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Al-Shabab Club Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 21",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1141345,
+        "referee": "Ivan Cisneros",
+        "timezone": "UTC",
+        "date": "2023-12-11T18:00:00+00:00",
+        "timestamp": 1702317600,
+        "periods": {
+          "first": 1702317600,
+          "second": 1702321200
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Shabab Club Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 504,
+        "name": "King's Cup",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/504.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Quarter-finals",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 5
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 3
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 5
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252474,
+        "referee": "D. Herrera",
+        "timezone": "UTC",
+        "date": "2024-10-18T18:00:00+00:00",
+        "timestamp": 1729274400,
+        "periods": {
+          "first": 1729274400,
+          "second": 1729278000
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Shabab Club Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 14
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436201,
+        "referee": "V. Fotias",
+        "timezone": "UTC",
+        "date": "2026-05-07T18:00:00+00:00",
+        "timestamp": 1778176800,
+        "periods": {
+          "first": 1778176800,
+          "second": 1778180400
+        },
+        "venue": {
+          "id": 1374,
+          "name": "Al-Shabab Club Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 10
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 33",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 4
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 4
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603258,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-05-20T18:00:00+00:00",
+        "timestamp": 1810836000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Shabab Club Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 32",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2940,
+          "name": "Al Shabab",
+          "logo": "https://media.api-sports.io/football/teams/2940.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2939,
+          "name": "Al-Nassr",
+          "logo": "https://media.api-sports.io/football/teams/2939.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

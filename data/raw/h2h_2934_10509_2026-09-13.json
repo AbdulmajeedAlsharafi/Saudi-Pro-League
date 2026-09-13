@@ -1,0 +1,430 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2934-10509"
+  },
+  "errors": [],
+  "results": 6,
+  "response": [
+    {
+      "fixture": {
+        "id": 1252540,
+        "referee": "Abdallah Dafar",
+        "timezone": "UTC",
+        "date": "2025-01-10T14:40:00+00:00",
+        "timestamp": 1736520000,
+        "periods": {
+          "first": 1736520000,
+          "second": 1736523600
+        },
+        "venue": {
+          "id": null,
+          "name": "EGO Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 14",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        },
+        "away": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1435914,
+        "referee": "F. Al Balawi",
+        "timezone": "UTC",
+        "date": "2025-08-28T18:00:00+00:00",
+        "timestamp": 1756404000,
+        "periods": {
+          "first": 1756404000,
+          "second": 1756407600
+        },
+        "venue": {
+          "id": 22434,
+          "name": "Abdullah Al Dabil Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 1",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": true
+        },
+        "away": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603217,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-04-22T18:00:00+00:00",
+        "timestamp": 1808416800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Abdullah Al Dabil Stadium",
+          "city": null
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 28",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252690,
+        "referee": "Faisal Alblwi",
+        "timezone": "UTC",
+        "date": "2025-05-10T16:20:00+00:00",
+        "timestamp": 1746894000,
+        "periods": {
+          "first": 1746894000,
+          "second": 1746897600
+        },
+        "venue": {
+          "id": null,
+          "name": "Ar-Rass Stadium",
+          "city": "Rass"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 10
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 31",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436068,
+        "referee": "M. Al Hoaish",
+        "timezone": "UTC",
+        "date": "2026-01-24T15:20:00+00:00",
+        "timestamp": 1769268000,
+        "periods": {
+          "first": 1769268000,
+          "second": 1769271600
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Hazem Club Stadium",
+          "city": "Ar Rass"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 18",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603067,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-24T15:05:00+00:00",
+        "timestamp": 1792854300,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Hazem Club Stadium",
+          "city": "Ar Rass"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2934,
+          "name": "Al-Ettifaq",
+          "logo": "https://media.api-sports.io/football/teams/2934.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

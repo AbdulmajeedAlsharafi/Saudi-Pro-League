@@ -1,0 +1,1340 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2929-2933"
+  },
+  "errors": [],
+  "results": 19,
+  "response": [
+    {
+      "fixture": {
+        "id": 110276,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2016-10-15T17:00:00+00:00",
+        "timestamp": 1476550800,
+        "periods": {
+          "first": 1476550800,
+          "second": 1476554400
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110425,
+        "referee": "T. Chapron",
+        "timezone": "UTC",
+        "date": "2017-11-24T15:40:00+00:00",
+        "timestamp": 1511538000,
+        "periods": {
+          "first": 1511538000,
+          "second": 1511541600
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Regular Season - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 151762,
+        "referee": "Damir Skomina, Slovenia",
+        "timezone": "UTC",
+        "date": "2018-11-09T14:20:00+00:00",
+        "timestamp": 1541773200,
+        "periods": {
+          "first": 1541773200,
+          "second": 1541776800
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 9",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 657855,
+        "referee": "Turki Al Khudair",
+        "timezone": "UTC",
+        "date": "2021-05-14T18:00:00+00:00",
+        "timestamp": 1621015200,
+        "periods": {
+          "first": 1621015200,
+          "second": 1621018800
+        },
+        "venue": {
+          "id": 12236,
+          "name": "Sport Hall Stadium in King Abdullah sport city",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "Regular Season - 27",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 984775,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-05-23T18:00:00+00:00",
+        "timestamp": 1684864800,
+        "periods": {
+          "first": 1684864800,
+          "second": 1684868400
+        },
+        "venue": {
+          "id": 1364,
+          "name": "Prince Abdullah al-Faisal Stadium",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 308,
+        "name": "Division 1",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/308.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 33",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252613,
+        "referee": "G. Kabakov",
+        "timezone": "UTC",
+        "date": "2025-02-25T17:30:00+00:00",
+        "timestamp": 1740504600,
+        "periods": {
+          "first": 1740504600,
+          "second": 1740508200
+        },
+        "venue": {
+          "id": 1364,
+          "name": "Al Inma Bank Stadium at King Abdullah Sport City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 22",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 3,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1435993,
+        "referee": "José Luis Munuera Montero, Spain",
+        "timezone": "UTC",
+        "date": "2025-11-21T17:30:00+00:00",
+        "timestamp": 1763746200,
+        "periods": {
+          "first": 1763746200,
+          "second": 1763749800
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 9",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1485072,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2025-11-28T17:30:00+00:00",
+        "timestamp": 1764351000,
+        "periods": {
+          "first": 1764351000,
+          "second": 1764354600
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "PEN",
+          "elapsed": 120,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 504,
+        "name": "King's Cup",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/504.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Quarter-finals",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 3
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": 5,
+          "away": 4
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603171,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-03-18T18:00:00+00:00",
+        "timestamp": 1805392800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 23",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110190,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2017-02-09T16:15:00+00:00",
+        "timestamp": 1486656900,
+        "periods": {
+          "first": 1486656900,
+          "second": 1486660500
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Saud bin Jalawi Stadium (al-Khobar (Khobar))",
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2016,
+        "round": "Regular Season - 18",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110335,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2018-03-09T16:30:00+00:00",
+        "timestamp": 1520613000,
+        "periods": {
+          "first": 1520613000,
+          "second": 1520616600
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Saud bin Jalawi Stadium (al-Khobar (Khobar))",
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Regular Season - 24",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 151873,
+        "referee": "Dennis Higler, Netherlands",
+        "timezone": "UTC",
+        "date": "2019-03-08T11:40:00+00:00",
+        "timestamp": 1552045200,
+        "periods": {
+          "first": 1552045200,
+          "second": 1552048800
+        },
+        "venue": {
+          "id": 1376,
+          "name": "Prince Saud bin Jalawi Stadium",
+          "city": "Khobar"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 23",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 336130,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2017-02-13T17:15:00+00:00",
+        "timestamp": 1487006100,
+        "periods": {
+          "first": 1487006100,
+          "second": 1487009700
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Saud bin Jalawi Stadium (al-Khobar (Khobar))",
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 504,
+        "name": "King's Cup",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/504.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "8th Finals",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 3
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 635955,
+        "referee": "Abdullah Al-Harbi",
+        "timezone": "UTC",
+        "date": "2021-01-08T13:40:00+00:00",
+        "timestamp": 1610113200,
+        "periods": {
+          "first": 1610113200,
+          "second": 1610116800
+        },
+        "venue": {
+          "id": 1376,
+          "name": "Prince Saud bin Jalawi Stadium",
+          "city": "Khobar"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 932166,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-01-10T14:40:00+00:00",
+        "timestamp": 1673361600,
+        "periods": {
+          "first": 1673361600,
+          "second": 1673365200
+        },
+        "venue": {
+          "id": 1376,
+          "name": "Prince Saud bin Jalawi Stadium",
+          "city": "Khobar"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 308,
+        "name": "Division 1",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/308.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 16",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252457,
+        "referee": "Khalid Al Turais",
+        "timezone": "UTC",
+        "date": "2024-09-27T18:00:00+00:00",
+        "timestamp": 1727460000,
+        "periods": {
+          "first": 1727460000,
+          "second": 1727463600
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Mohamed bin Fahd Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 14
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 5",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1393812,
+        "referee": "Ricardo De Burgos Bengoetxea",
+        "timezone": "UTC",
+        "date": "2025-08-20T12:00:00+00:00",
+        "timestamp": 1755691200,
+        "periods": {
+          "first": 1755691200,
+          "second": 1755694800
+        },
+        "venue": {
+          "id": 3385,
+          "name": "Hong Kong Stadium",
+          "city": "Hong Kong"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 1
+        }
+      },
+      "league": {
+        "id": 826,
+        "name": "Super Cup",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/826.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Semi-finals",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 5
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 4
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 5
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436146,
+        "referee": "K. Ortega",
+        "timezone": "UTC",
+        "date": "2026-03-13T19:00:00+00:00",
+        "timestamp": 1773428400,
+        "periods": {
+          "first": 1773428400,
+          "second": 1773432000
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Saud bin Jalawi Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 12
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 26",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603022,
+        "referee": "Ismail Elfath, USA",
+        "timezone": "UTC",
+        "date": "2026-09-08T18:00:00+00:00",
+        "timestamp": 1788890400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "EGO Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 6",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 3,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

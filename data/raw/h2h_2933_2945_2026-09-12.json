@@ -1,0 +1,640 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2933-2945"
+  },
+  "errors": [],
+  "results": 9,
+  "response": [
+    {
+      "fixture": {
+        "id": 151932,
+        "referee": "Antonio Mateu, Spain",
+        "timezone": "UTC",
+        "date": "2019-05-16T19:30:00+00:00",
+        "timestamp": 1558035000,
+        "periods": {
+          "first": 1558035000,
+          "second": 1558038600
+        },
+        "venue": {
+          "id": 1376,
+          "name": "Prince Saud bin Jalawi Stadium",
+          "city": "Khobar"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 30",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 984691,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-03-06T15:25:00+00:00",
+        "timestamp": 1678116300,
+        "periods": {
+          "first": 1678116300,
+          "second": 1678119900
+        },
+        "venue": {
+          "id": 1376,
+          "name": "Prince Saud bin Jalawi Stadium",
+          "city": "Khobar"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 308,
+        "name": "Division 1",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/308.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 24",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436207,
+        "referee": "K. Levnikov",
+        "timezone": "UTC",
+        "date": "2026-05-14T18:00:00+00:00",
+        "timestamp": 1778781600,
+        "periods": {
+          "first": 1778781600,
+          "second": 1778785200
+        },
+        "venue": {
+          "id": 1370,
+          "name": "Prince Saud bin Jalawi Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 33",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1477350,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2025-10-28T14:35:00+00:00",
+        "timestamp": 1761662100,
+        "periods": {
+          "first": 1761662100,
+          "second": 1761665700
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Saud bin Jalawi Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 7
+        }
+      },
+      "league": {
+        "id": 504,
+        "name": "King's Cup",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/504.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Round of 16",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603267,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-05-24T18:00:00+00:00",
+        "timestamp": 1811181600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Saud bin Jalawi Stadium",
+          "city": "Dammam"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 33",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 151735,
+        "referee": "Artur Soares Dias, Portugal",
+        "timezone": "UTC",
+        "date": "2018-10-18T15:15:00+00:00",
+        "timestamp": 1539875700,
+        "periods": {
+          "first": 1539875700,
+          "second": 1539879300
+        },
+        "venue": {
+          "id": null,
+          "name": "Al Hazm Club Stadium",
+          "city": "Ar Rass"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 6",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 932081,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-10-10T15:15:00+00:00",
+        "timestamp": 1665414900,
+        "periods": {
+          "first": 1665414900,
+          "second": 1665418500
+        },
+        "venue": {
+          "id": null,
+          "name": "Ar-Rass Stadium",
+          "city": "Rass"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 308,
+        "name": "Division 1",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/308.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 7",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436054,
+        "referee": "Kirill Levnikov, Russia",
+        "timezone": "UTC",
+        "date": "2026-01-18T15:15:00+00:00",
+        "timestamp": 1768749300,
+        "periods": {
+          "first": 1768749300,
+          "second": 1768752900
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Hazem Club Stadium",
+          "city": "Ar Rass"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 16",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 5
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 5
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603110,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-12-03T17:00:00+00:00",
+        "timestamp": 1796317200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Hazem Club Stadium",
+          "city": "Ar Rass"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 16",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2945,
+          "name": "Al-Hazm",
+          "logo": "https://media.api-sports.io/football/teams/2945.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2933,
+          "name": "Al-Qadisiyah FC",
+          "logo": "https://media.api-sports.io/football/teams/2933.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

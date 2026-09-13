@@ -1,0 +1,1270 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2929-2944"
+  },
+  "errors": [],
+  "results": 18,
+  "response": [
+    {
+      "fixture": {
+        "id": 110439,
+        "referee": "N. Hänni",
+        "timezone": "UTC",
+        "date": "2017-10-31T15:45:00+00:00",
+        "timestamp": 1509464700,
+        "periods": {
+          "first": 1509464700,
+          "second": 1509468300
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Regular Season - 9",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 151777,
+        "referee": "Damir Skomina, Slovenia",
+        "timezone": "UTC",
+        "date": "2018-11-30T14:30:00+00:00",
+        "timestamp": 1543588200,
+        "periods": {
+          "first": 1543588200,
+          "second": 1543591800
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 312899,
+        "referee": "S. Vinčić",
+        "timezone": "UTC",
+        "date": "2020-03-06T16:40:00+00:00",
+        "timestamp": 1583512800,
+        "periods": {
+          "first": 1583512800,
+          "second": 1583516400
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 21",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 824996,
+        "referee": "Ahmad Al Rumaikhani",
+        "timezone": "UTC",
+        "date": "2022-02-17T14:55:00+00:00",
+        "timestamp": 1645109700,
+        "periods": {
+          "first": 1645109700,
+          "second": 1645113300
+        },
+        "venue": {
+          "id": 1364,
+          "name": "Prince Abdullah al-Faisal Stadium",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 21",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074544,
+        "referee": "R. Petrescu",
+        "timezone": "UTC",
+        "date": "2024-05-27T18:00:00+00:00",
+        "timestamp": 1716832800,
+        "periods": {
+          "first": 1716832800,
+          "second": 1716836400
+        },
+        "venue": {
+          "id": 19932,
+          "name": "Prince Abdullah al-Faisal Stadium",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 34",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252668,
+        "referee": "I. Kružliak",
+        "timezone": "UTC",
+        "date": "2025-04-18T16:20:00+00:00",
+        "timestamp": 1744993200,
+        "periods": {
+          "first": 1744993200,
+          "second": 1744996800
+        },
+        "venue": {
+          "id": 1364,
+          "name": "Prince Abdullah Al Faisal Sports City Stadium",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 4
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 28",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 5,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 3,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 5,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436012,
+        "referee": "Faisal Suleiman Al-Balawi, Saudi Arabia",
+        "timezone": "UTC",
+        "date": "2025-12-30T15:30:00+00:00",
+        "timestamp": 1767108600,
+        "periods": {
+          "first": 1767108600,
+          "second": 1767112200
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 12",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603206,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-04-18T18:00:00+00:00",
+        "timestamp": 1808071200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 27",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 110353,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2018-02-16T14:35:00+00:00",
+        "timestamp": 1518791700,
+        "periods": {
+          "first": 1518791700,
+          "second": 1518795300
+        },
+        "venue": {
+          "id": null,
+          "name": "King Salman bin Abdulaziz Sport City Stadium (Al Majma'ah)",
+          "city": null
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2017,
+        "round": "Regular Season - 22",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 151886,
+        "referee": "Anastasios Sidiropoulos, Greece",
+        "timezone": "UTC",
+        "date": "2019-04-01T15:55:00+00:00",
+        "timestamp": 1554134100,
+        "periods": {
+          "first": 1554134100,
+          "second": 1554137700
+        },
+        "venue": {
+          "id": null,
+          "name": "Prince Salman Bin Abdulaziz Sport City Stadium",
+          "city": "Al Majma'ah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Regular Season - 24",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 234823,
+        "referee": "B. Madden",
+        "timezone": "UTC",
+        "date": "2019-10-05T15:20:00+00:00",
+        "timestamp": 1570288800,
+        "periods": {
+          "first": 1570288800,
+          "second": 1570292400
+        },
+        "venue": {
+          "id": 1367,
+          "name": "Al Majma'ah Sports City Stadium",
+          "city": "Al Majma'ah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2019,
+        "round": "Regular Season - 6",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 3
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 335998,
+        "referee": "B. Nijhuis",
+        "timezone": "UTC",
+        "date": "2020-01-02T15:00:00+00:00",
+        "timestamp": 1577977200,
+        "periods": {
+          "first": 1577977200,
+          "second": 1577980800
+        },
+        "venue": {
+          "id": 1367,
+          "name": "Al Majma'ah Sports City Stadium",
+          "city": "Al Majma'ah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 504,
+        "name": "King's Cup",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/504.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2020,
+        "round": "8th Finals",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 336107,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2018-02-24T15:40:00+00:00",
+        "timestamp": 1519486800,
+        "periods": {
+          "first": 1519486800,
+          "second": 1519490400
+        },
+        "venue": {
+          "id": null,
+          "name": "King Salman bin Abdulaziz Sport City Stadium",
+          "city": "Al Majma'ah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "PEN",
+          "elapsed": 120,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 504,
+        "name": "King's Cup",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/504.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2018,
+        "round": "Quarter-finals",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 3
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": 2,
+          "away": 2
+        },
+        "penalty": {
+          "home": 3,
+          "away": 4
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 740004,
+        "referee": "Shukri Al Hanfosh",
+        "timezone": "UTC",
+        "date": "2021-09-23T15:30:00+00:00",
+        "timestamp": 1632411000,
+        "periods": {
+          "first": 1632411000,
+          "second": 1632414600
+        },
+        "venue": {
+          "id": 1367,
+          "name": "Al Majma'ah Sports City Stadium",
+          "city": "Al Majma'ah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2021,
+        "round": "Regular Season - 6",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1074390,
+        "referee": "G. Guerrero",
+        "timezone": "UTC",
+        "date": "2023-12-14T18:00:00+00:00",
+        "timestamp": 1702576800,
+        "periods": {
+          "first": 1702576800,
+          "second": 1702580400
+        },
+        "venue": {
+          "id": 1367,
+          "name": "Prince Faisal bin Fahd Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2023,
+        "round": "Regular Season - 17",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 4
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 4
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 4
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252510,
+        "referee": "Mohammed Al Hoaish",
+        "timezone": "UTC",
+        "date": "2024-11-22T14:50:00+00:00",
+        "timestamp": 1732287000,
+        "periods": {
+          "first": 1732287000,
+          "second": 1732290600
+        },
+        "venue": {
+          "id": 1377,
+          "name": "King Abdullah Sport City Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 10
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436171,
+        "referee": "M. Al Ismail",
+        "timezone": "UTC",
+        "date": "2026-04-08T15:55:00+00:00",
+        "timestamp": 1775663700,
+        "periods": {
+          "first": 1775663700,
+          "second": 1775667300
+        },
+        "venue": {
+          "id": 1367,
+          "name": "King Abdullah Sports City Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 29",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603057,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-19T15:05:00+00:00",
+        "timestamp": 1792422300,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "King Abdullah Sports City Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 10",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2944,
+          "name": "Al-Fayha",
+          "logo": "https://media.api-sports.io/football/teams/2944.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2929-10509"
+  },
+  "errors": [],
+  "results": 8,
+  "response": [
+    {
+      "fixture": {
+        "id": 932046,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-09-05T17:35:00+00:00",
+        "timestamp": 1662399300,
+        "periods": {
+          "first": 1662399300,
+          "second": 1662402900
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 308,
+        "name": "Division 1",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/308.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252703,
+        "referee": "L. Rey Hilfer",
+        "timezone": "UTC",
+        "date": "2025-05-17T18:00:00+00:00",
+        "timestamp": 1747504800,
+        "periods": {
+          "first": 1747504800,
+          "second": 1747508400
+        },
+        "venue": {
+          "id": 1364,
+          "name": "Prince Abdullah Al Faisal Sports City Stadium",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 11
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 32",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436204,
+        "referee": "S. Al Hunfush",
+        "timezone": "UTC",
+        "date": "2026-05-16T18:00:00+00:00",
+        "timestamp": 1778954400,
+        "periods": {
+          "first": 1778954400,
+          "second": 1778958000
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 2
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 33",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        },
+        "away": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 3,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603153,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-02-25T19:00:00+00:00",
+        "timestamp": 1803582000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1364,
+          "name": "King Abdullah Sports City",
+          "city": "Jeddah"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 21",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 984658,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-02-07T15:30:00+00:00",
+        "timestamp": 1675783800,
+        "periods": {
+          "first": 1675783800,
+          "second": 1675787400
+        },
+        "venue": {
+          "id": null,
+          "name": "Ar-Rass Stadium",
+          "city": "Rass"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 308,
+        "name": "Division 1",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/308.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2022,
+        "round": "Regular Season - 20",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1252551,
+        "referee": "M. Al Hakim",
+        "timezone": "UTC",
+        "date": "2025-01-15T17:00:00+00:00",
+        "timestamp": 1736960400,
+        "periods": {
+          "first": 1736960400,
+          "second": 1736964000
+        },
+        "venue": {
+          "id": 1377,
+          "name": "King Abdullah Sport City Stadium",
+          "city": "Buraidah"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2024,
+        "round": "Regular Season - 15",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436049,
+        "referee": "Majed Mohammed Al-Shamrani, Saudi Arabia",
+        "timezone": "UTC",
+        "date": "2026-01-17T15:10:00+00:00",
+        "timestamp": 1768662600,
+        "periods": {
+          "first": 1768662600,
+          "second": 1768666200
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Hazem Club Stadium",
+          "city": "Ar Rass"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 16",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603002,
+        "referee": "Shukri Alhunfush, Saudi Arabia",
+        "timezone": "UTC",
+        "date": "2026-08-29T16:05:00+00:00",
+        "timestamp": 1788019500,
+        "periods": {
+          "first": 1788019500,
+          "second": 1788023100
+        },
+        "venue": {
+          "id": null,
+          "name": "Al-Hazem Club Stadium",
+          "city": "Ar Rass"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10509,
+          "name": "Al Kholood",
+          "logo": "https://media.api-sports.io/football/teams/10509.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2929,
+          "name": "Al-Ahli Jeddah",
+          "logo": "https://media.api-sports.io/football/teams/2929.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

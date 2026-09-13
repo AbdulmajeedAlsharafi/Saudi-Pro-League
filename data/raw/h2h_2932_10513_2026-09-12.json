@@ -1,0 +1,290 @@
+{
+  "get": "fixtures/headtohead",
+  "parameters": {
+    "h2h": "2932-10513"
+  },
+  "errors": [],
+  "results": 4,
+  "response": [
+    {
+      "fixture": {
+        "id": 1436051,
+        "referee": "J. Alberola",
+        "timezone": "UTC",
+        "date": "2026-01-18T17:30:00+00:00",
+        "timestamp": 1768757400,
+        "periods": {
+          "first": 1768757400,
+          "second": 1768761000
+        },
+        "venue": {
+          "id": null,
+          "name": "King Khalid Sports City",
+          "city": "Tabuk"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 16",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10513,
+          "name": "NEOM",
+          "logo": "https://media.api-sports.io/football/teams/10513.png",
+          "winner": false
+        },
+        "away": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603178,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2027-03-18T18:00:00+00:00",
+        "timestamp": 1805392800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "King Khalid Sports City",
+          "city": "Tabuk"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 23",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 10513,
+          "name": "NEOM",
+          "logo": "https://media.api-sports.io/football/teams/10513.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1436205,
+        "referee": "A. Sidiropoulos",
+        "timezone": "UTC",
+        "date": "2026-05-16T16:05:00+00:00",
+        "timestamp": 1778947500,
+        "periods": {
+          "first": 1778947500,
+          "second": 1778951100
+        },
+        "venue": {
+          "id": 20744,
+          "name": "Kingdom Arena",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2025,
+        "round": "Regular Season - 33",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": true
+        },
+        "away": {
+          "id": 10513,
+          "name": "NEOM",
+          "logo": "https://media.api-sports.io/football/teams/10513.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603018,
+        "referee": "Sascha Stegemann, Germany",
+        "timezone": "UTC",
+        "date": "2026-09-07T18:00:00+00:00",
+        "timestamp": 1788804000,
+        "periods": {
+          "first": 1788804000,
+          "second": 1788807600
+        },
+        "venue": {
+          "id": 20744,
+          "name": "Kingdom Arena",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 6",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 2932,
+          "name": "Al-Hilal Saudi FC",
+          "logo": "https://media.api-sports.io/football/teams/2932.png",
+          "winner": false
+        },
+        "away": {
+          "id": 10513,
+          "name": "NEOM",
+          "logo": "https://media.api-sports.io/football/teams/10513.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}
