@@ -1,0 +1,41 @@
+# Saudi Pro League pipeline configuration
+# IMPORTANT: API keys are NOT stored here.
+# Secret values remain in Databricks Secrets; this file stores the secret names.
+
+storage:
+  account: splpipelinestorage
+  bronze_container: bronze
+  silver_container: silver
+
+secrets:
+  databricks_scope: spl-scope
+  storage_account_key: storage-account-key
+  api_football_key: api-football-key
+
+competition:
+  league_id: 307
+  season: 2026
+  timezone: Asia/Riyadh
+
+apis:
+  api_football:
+    base_url: https://v3.football.api-sports.io
+    fixtures_endpoint: /fixtures
+    fixture_stats_endpoint: /fixtures/statistics
+    fixture_players_endpoint: /fixtures/players
+    h2h_endpoint: /fixtures/headtohead
+  espn:
+    scoreboard_url: https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard
+  open_meteo:
+    historical_url: https://historical-forecast-api.open-meteo.com/v1/forecast
+
+request:
+  timeout_seconds: 15
+  max_retries: 3
+  timeout_retry_sleep_seconds: 5
+  rate_limit_sleep_seconds: 30
+  between_requests_seconds: 1
+
+weather:
+  full_rebuild: false
+  start_date: "2022-08-25"
